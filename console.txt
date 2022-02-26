@@ -1,0 +1,101 @@
+
+INPUT MATRIX:
+Enter the number of rows: 3
+Enter the number of columns: 4
+
+Enter elements of the matrix row-wise.
+Enter element 5
+Enter element 7
+Enter element 63
+Enter element 47
+Enter element 89
+Enter element 88
+Enter element 44
+Enter element 20
+Enter element 14
+Enter element 15
+Enter element 67
+Enter element 22
+
+ORIGINAL MATRIX:
+5	7	63	47	
+
+89	88	44	20	
+
+14	15	67	22	
+
+MATRIX BOUNDARY ELEMENTS SORTED:
+5	7	14	15	
+
+89	88	44	20	
+
+67	63	47	22	
+
+BOUNDARY ELEMENTS:
+5	7	14	15	
+
+89	 	 	20	
+
+67	63	47	22	
+
+Sum of boundary elements= 349
+
+1. Continue
+2. Exit
+Enter your choice: 4
+Invalid Entry. Please enter from the given choices.
+
+INPUT MATRIX:
+Enter the number of rows: 4
+Enter the number of columns: 4
+
+Enter elements of the matrix row-wise.
+Enter element 63
+Enter element 99
+Enter element 78
+Enter element 52
+Enter element 25
+Enter element 65
+Enter element 22
+Enter element 10
+Enter element 37
+Enter element 71
+Enter element 48
+Enter element 93
+Enter element 33
+Enter element 98
+Enter element 73
+Enter element 2
+
+ORIGINAL MATRIX:
+63	99	78	52	
+
+25	65	22	10	
+
+37	71	48	93	
+
+33	98	73	2	
+
+MATRIX BOUNDARY ELEMENTS SORTED:
+2	10	25	33	
+
+99	65	22	37	
+
+98	71	48	52	
+
+93	78	73	63	
+
+BOUNDARY ELEMENTS:
+2	10	25	33	
+
+99	 	 	37	
+
+98	 	 	52	
+
+93	78	73	63	
+
+Sum of boundary elements= 663
+
+1. Continue
+2. Exit
+Enter your choice: 2
